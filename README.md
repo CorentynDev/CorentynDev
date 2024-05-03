@@ -8,9 +8,9 @@ I'm a dedicated web developer with a focus on front-end technologies such as HTM
 ### Current Projects
 Here are some of the exciting projects I'm currently working on:
 
-1. **Project Name**: A brief description of the project and its purpose.
-2. **Project Name**: A brief description of the project and its purpose.
-3. **Project Name**: A brief description of the project and its purpose.
+1. **Dashboard**: A dynamic dashboard which will help my association to develop better web experiences.
+2. **Portfolio**: A website which gathers all my student journey, my several projects, a blog, my YouTube channel, and so on.
+3. **The Fallen Kards (TFK)**: A game accessible from a navigator. It will be a mix between HearthStone and Gacha game (as DragonBall Z Dokkan Battle).
 
 ### Skills
 
