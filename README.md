@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hey there! I'm [Your Name], a passionate web developer with a love for creating beautiful and functional web experiences. Welcome to my GitHub profile where you'll find a collection of my projects, code snippets, and contributions to the web development community.
+Hey there! I'm CorentynDev, a passionate web developer with a love for creating beautiful and functional web experiences. Welcome to my GitHub profile where you'll find a collection of my projects, code snippets, and contributions to the web development community.
 
 ### About Me
 I'm a dedicated web developer with a focus on front-end technologies such as HTML, CSS, and JavaScript. I also have experience with frameworks like React and Vue.js, and I'm always eager to learn and explore new tools and technologies to enhance my skill set.
