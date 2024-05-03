@@ -41,7 +41,7 @@ When it comes to the backend, I have experience with a variety of technologies i
 - PHPStorm <img src="https://www.qbssoftware.fr/wp-content/uploads/2022/05/JetBrains-PHPStorm-300x300-1.png" width="50" height="50" align="center"/>
 
 ### Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via [email](mailto:corentyn.dev@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/corentyn-hayer-b3b449262).
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via [email](mailto:corentyn.dev@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/corentyn-hayer-b3b449262).
 
 ### Let's Connect
 Let's connect and build amazing web experiences together! Don't forget to check out my repositories and feel free to leave feedback or open issues.
